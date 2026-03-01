@@ -45,7 +45,7 @@ export default function Home() {
           <li><a href="#install">Install</a></li>
           <li>
             <a
-              href="https://github.com/search?q=overlaybox+chrome+extension&type=repositories"
+              href="https://github.com/SoumadeepCh/OverlayBox"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-nav"
