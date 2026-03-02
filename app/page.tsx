@@ -656,7 +656,7 @@ export default function Home() {
           </p>
           <div className="hero-cta-group">
             <a
-              href="https://github.com/search?q=overlaybox+chrome+extension&type=repositories"
+              href="https://github.com/SoumadeepCh/OverlayBox"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
